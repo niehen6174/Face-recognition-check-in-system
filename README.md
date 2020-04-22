@@ -5,7 +5,8 @@
 
 <h4>使用python3+写的，使用face_recognition（python开源的人脸识别库）进行人脸识别 ，使用opencv2进行打开显示摄像头图片等，使用pyqt5是ui界面，使用百度AI中的百度语音合成实现语音播报和语音合成，使用对excel的操作以及人脸识别实现模拟签到。
 
-<h4> 效果图 ![](https://gitee.com/nie_hen/test/raw/master/photo3/1587537135167.png)
+<h4> 效果图 
+  ![enter description here](https://gitee.com/nie_hen/test/raw/master/photo3/1587537135167.png)
 <h4>只需要把一张具有人脸信息的图片按名字命名放到相应的文件夹中，在text.txt文本中输入详细信息，即可使用。
 <h4> 新版本 https://github.com/niehen6174/image_and_speech_processing
 <h4>文档在CSDN上面 
